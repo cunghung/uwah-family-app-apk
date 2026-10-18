@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "url": "https://raw.githubusercontent.com/cunghung/uwah-family-app-apk/main/uwah-family-app.apk",
-  "note": "換新圖示（藍底、金幣掉進房子）"
+  "note": "修好「第一次更新打開允許安裝後沒反應」：回來會自動接著裝"
 }
